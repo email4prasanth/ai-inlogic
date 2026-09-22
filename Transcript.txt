@@ -1,0 +1,106 @@
+
+Transcript. Use arrow keys to navigate between transcript entries. Select an entry to navigate the media to the time of the entry.
+
+
+Search
+
+AI-generated content may be incorrect
+
+Marri Prasanth started transcription
+
+Soumyadeep Pal
+0 minutes 3 seconds0:03
+Soumyadeep Pal 0 minutes 3 seconds
+Ohh.
+Soumyadeep Pal 0 minutes 5 seconds
+In August.
+Soumyadeep Pal 0 minutes 6 seconds
+Okay.
+Soumyadeep Pal 0 minutes 11 seconds
+Tell Marri.
+Soumyadeep Pal 0 minutes 17 seconds
+Can we click this one, recording?
+Soumyadeep Pal 0 minutes 21 seconds
+You have to, is that one national? We are going to, yeah, like this.
+Soumyadeep Pal 0 minutes 29 seconds
+If this is not prediction, they did not.
+Soumyadeep Pal 0 minutes 36 seconds
+Yeah, yeah, it's coming.
+Soumyadeep Pal 0 minutes 39 seconds
+Okay.
+Soumyadeep Pal 0 minutes 41 seconds
+I just want to set up.
+Soumyadeep Pal 39 minutes 35 seconds
+If there are any authorization tokens, you'll have to put here. Connect and that's it. Okay.
+Soumyadeep Pal 39 minutes 42 seconds
+So, what about the CCD? I came across MCP and knowledge based. So, what is the purpose I can know? What about the CCD? CCD. CCD is the department's name. No, no, no, I understood, but what is the outcome of the preparation of the four CCDs? OK.
+Soumyadeep Pal 40 minutes 1 second
+So, the problem statement that CCD came up with is they are taking a lot of time investigating a ticket. Okay, so user is raising a ticket. Okay, problem. They are taking time to understand that what is going on with the ticket. Okay, what they generally do, we have a Helpdesk. Okay, we have a...
+Soumyadeep Pal 40 minutes 20 seconds
+Some help desk where it gives all the information about the user's activity on the on our MMH global platform, right? Logins, okay, logins did not work, okay, they are vast prescriptions, everything is there on that platform, so overview dashboard, overview dashboard of the user.
+Soumyadeep Pal 40 minutes 41 seconds
+Okay, okay. Their first task is to...
+Soumyadeep Pal 40 minutes 45 seconds
+Verify that dashboard or the Helpdesk to understand where this user went wrong.
+Soumyadeep Pal 40 minutes 51 seconds
+Why have this user had a problem? OK, if it is not fine, if it is not found out in the dashboard, they escalate it to Chakerveersingh and the software team to find out that what actually happened.
+Soumyadeep Pal 41 minutes 3 seconds
+So, there is 2 possibilities. Let me ask you: the user is intentionally giving some wrong information. OK, OK, the user is highly intentional to know something. So, what you're saying is, if it is not in the dashboard, it will let's click. Yes, if it is a trash, then it will trash, then ideally they should identify.
+Soumyadeep Pal 41 minutes 24 seconds
+They will, yes, that it is a false, you know, ticket that has been raised. I mean, I don't know, I did not get such information so far. No, no, I just, yes, I understood. OK, so how the flow for CCD works is they all these tickets are present in CRM Microsoft 360.
+Soumyadeep Pal 41 minutes 43 seconds
+OK, dynamic. OK, so they get all the emails of the CCR user tickets there. OK, so we have made one tool for 360 dynamic searching. OK, so given our case number, OK, they have a case number, they will provide the case number to the agent using that case number.
+Soumyadeep Pal 42 minutes 3 seconds
+and the tools, it will search all the understanding of the ticket that has been raised, images or whatever has been raised by the user. Based on that, the agent will now search the Helpdesk.
+Soumyadeep Pal 42 minutes 18 seconds
+So we have Helpdesk APIs, we converted that into a tools, okay, searching tools for the agent. Using that information, it will log into the, you know, list users Helpdesk, basically, and it will look into it, that what.
+Soumyadeep Pal 42 minutes 34 seconds
+and this person actually faced the problem, then it will give you a report that this is the ticket race and this is why it happened.
+Soumyadeep Pal 42 minutes 44 seconds
+This is the use case for this ICCD. OK, the outcome is for the question, the answer, yes, the question is from user, yes, the answer is from the Helpdesk, yes.
+Soumyadeep Pal 42 minutes 56 seconds
+OK, our answer is an investigation report. OK, that this is so this the main idea of this entire flow is the case number which was, yes, so depending upon that, we need to input the case number, case number.
+Soumyadeep Pal 43 minutes 10 seconds
+We did not make a chat bot. OK, but to keep it simple to start with, we just give case number, search it directly, and in two, 2 1/2 minutes it will be. So, what, what the input from our side? Our side means? So, the input is the case number. Ah, the input from our side means the CCD user. Yes.
+Soumyadeep Pal 43 minutes 30 seconds
+OK, the input is the case number only.
+Soumyadeep Pal 43 minutes 35 seconds
+There are a list of case numbers is there. We don't want that new ticket is 1 case. We don't want to go into the case number with the question which is raised by the user. Just we need to take that case question is in the Microsoft Dynamic. Yeah, that's right. Case number is provided by the...
+Soumyadeep Pal 43 minutes 55 seconds
+C.C.D. Yeah, actually, basically, this tool is used to to used for C.C.D. people; they will be giving only the case number, the other case number, who has case number, they will give up no in the tool, the tool, yes, no, no, my question is, they don't want to completely read the question pressed by the user, the case number itself, if you take the case number and put it in the input as an input.
+Soumyadeep Pal 44 minutes 17 seconds
+We will get the output, exactly. That is the basically today. So we are doing, I mean, currently we are doing, taking the case number manually, right? We are taking the case number manually and we are in the front end, we are just putting the case number, nothing else. Yes, understood. Okay, based on the case number, our agent will read the CRM.
+Soumyadeep Pal 44 minutes 36 seconds
+Okay, the Microsoft 360 Dynamic that will have all the questions that is raised by that user. Okay, previous questions also. Previous questions also there. The current question or the current case ID is the primary focus. Okay.
+Soumyadeep Pal 44 minutes 51 seconds
+I understood.
+Soumyadeep Pal 44 minutes 53 seconds
+So, finally...
+Soumyadeep Pal 44 minutes 57 seconds
+What so that the LLM is there is just an input and output where tokens is consumption. Yes. If we want to incorporate something which has to be done by the LLM, we need tools. We need tools. So based upon the outcome, we need to incorporate the tools. Correct tools, yes. Yes. So that is the thing. So.
+Soumyadeep Pal 45 minutes 16 seconds
+So, currently, what we have done is the checklist generation is the outcome. So, for this checklist generation, what we have to do is we have given the Sigma, and we have the FDS and the user story user stories. So, this is what it will give the generation of checklist, but what the expectation is...
+Soumyadeep Pal 45 minutes 35 seconds
+So, we need to give a code base. From this code base, they need to generate the checklist, so that no, not the code base. We need to provide a knowledge base. OK, OK, OK, which has all the understanding of the details of the previous FDS changes that has been done. OK, OK, so that it can identify.
+Soumyadeep Pal 45 minutes 54 seconds
+To it should be able to generate impact test cases also, so that is regarding and this one knowledge base, knowledge base, and so the MCPs which was created by us, we are giving this MCPs that one endpoints and to this endpoints we are integrating this LLM.
+Soumyadeep Pal 46 minutes 13 seconds
+Like Olama, so, so bunch of these things in order to make it customized, we are using Langrove, Langra, Langra, if it is not any code base, then we go for Langflow, so this is the overview, yes, so CCD is asking for a, if they give the case number, they need to generate the report. This is what we currently in the...
+Soumyadeep Pal 46 minutes 35 seconds
+Correct, entire thing. Another thing in the testing platform is they should be able to execute the test case also. Okay, test case means you are saying. I, my platform should be able to log in and view my health records. Okay, this is my test case, correct? It should be able to open the browser.
+Soumyadeep Pal 46 minutes 57 seconds
+Okay, with the URL, log in with the credentials, look at the browser, go to the health record section and see whether the health records are displayed correctly or not. Like a screenshot. So what you're saying is, the outcome is just checking the health records. So for this one, there is something, the credentials which we have to give right.
+Soumyadeep Pal 47 minutes 16 seconds
+Yes, so that is a admin credentials, or else a privilege credentials. So, mostly whenever they deploy on UAT or reprod, they have specific demo credentials. OK, OK, just to test whether the platform is running in a way we want or not. OK, OK. Those credentials are provided to the agent along with the URL which needs to be opened.
+Soumyadeep Pal 47 minutes 38 seconds
+list of URLs. Let's do just single one URL only generally. OK, and this testing is now covered for Android application also, iOS application also.
+Soumyadeep Pal 47 minutes 50 seconds
+Okay, understood. It will access the application, open the device, so click here and there. So for every module or for every, I mean, repository, the outcome is there, right? KB has some outcome, MCP has some outcome.
+Soumyadeep Pal 48 minutes 10 seconds
+You know, for the knowledge-based, I mean, just have some outcome.
+Soumyadeep Pal 48 minutes 16 seconds
+This.
+Soumyadeep Pal 48 minutes 18 seconds
+The A.P. control and C.P. is also.
+
+Soumyadeep Pal stopped transcription
