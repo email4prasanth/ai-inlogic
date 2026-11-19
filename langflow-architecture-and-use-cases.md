@@ -4,7 +4,7 @@ This note organizes the transcript's discussion of Langflow, MCP, LLMs, external
 
 ## 1. What Is Langflow?
 
-Langflow is a low-code platform for building and orchestrating AI agents and workflows. According to the transcript, the team deployed the provided Docker image and accesses the platform through a URL rather than building an orchestration platform from scratch.
+Langflow is a low-code platform for building and orchestrating AI agents and LLM workflows, RAG Pipelines. According to the transcript, the team deployed the provided Docker image and accesses the platform through a URL rather than building an orchestration platform from scratch.
 
 ### Basic Setup
 
